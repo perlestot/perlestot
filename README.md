@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I’m a Data Scientist who has experienced healthcare projects including medicine and radiography images. Experienced in clinical information extraction, computer vision with medical data (DICOM files), and PACS Server.  
+I’m a Data Scientist who has experienced healthcare projects including medicine and radiography images. Experienced in clinical information extraction, computer vision with medical data (DICOM files), and PACS Server. I am proficient in PyCaret and spaCy library which can build the optimized machine learning model in just a few hour.
   
 
 <br/>  
@@ -27,10 +27,10 @@ I’m a Data Scientist who has experienced healthcare projects including medicin
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on **Thrombus Detection in Non-Contrast CT Brain Scans Project**  
+- 🔭 I’m currently working on **Thrombus Detection in Non-Contrast CT Brain Scans and Abnormaly CXR Project**  
   
 
-- 🌱 I’m currently learning DL in NLP and Image Registration  
+- 🌱 I’m currently learning customize DL model in NLP using spaCy framework and learn how to perform Image Registration  
   
 
 - ❓ Ask me about anything related to Data Scientist and Radiology Image  
