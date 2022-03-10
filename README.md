@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I’m a Data Scientist who has experienced healthcare projects including medicine and radiography images. Experienced in clinical information extraction, computer vision with medical data (DICOM files), and PACS Server. I am proficient in PyCaret and spaCy library which can build the optimized machine learning model in just a few hour.
+I’m a Data Scientist who has experienced healthcare projects including medicine and radiography images. Experienced in clinical information extraction, computer vision with medical data (DICOM files), and PACS Server. I'm proficient in PyCaret and spaCy libraries, which can build an optimized machine learning model in just a few hours.
   
 
 <br/>  
